@@ -1,3 +1,9 @@
+### Contributors
+
+<a href="https://github.com/Marcelol090" target="_blank">Marcelol090<a>
+
+<a href="https://github.com/Flavio-JS">Flavio-JS<a>
+
 ### Branch Pattern
 
 Here we will explain how the project branches are divided into core branches(which should not have a branch name change), for example:
